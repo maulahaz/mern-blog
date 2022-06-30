@@ -1,4 +1,4 @@
-## Project : Dagang
+## Project : Blog
 Learn about MERN. To Make Blog
 
 ### Detail:
